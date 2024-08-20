@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Getting Started with Create React App and Mapbox
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="711" alt="Screenshot 2024-08-20 at 07 23 44" src="https://github.com/user-attachments/assets/fcd8b539-312a-4550-8a2b-b3688b0c98e4">
+
+## dependencies
+
+```bash
+npm install react-map-gl mapbox-gl @types/mapbox-gl
+```
 
 ## Available Scripts
 
